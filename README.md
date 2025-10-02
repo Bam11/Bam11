@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bello 
-- 👀 I’m interested in Web designing and software development
-- 🌱 I’m currently learning Front end on webdesigning and C++
+- 👀 I’m interested in Web and software development
+- 🌱 I’m a Frontend developer
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: 
   Facebook: https://www.facebook.com/adedapo.bello, Gmail: adedapobello@gmail.com
